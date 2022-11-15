@@ -53,6 +53,11 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://twitter.com/am_abhi_krish"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://github.com/abhinandkrishna20/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/abhinandkrishna20/count.svg" />
+</p>
+
 
 
 
