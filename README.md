@@ -30,6 +30,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 My Github Stats
 
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=abhinandkrishna20&theme=dracula&hide_border=true)
+
  <br/>
     <a href="https://github.com/abhinandkrishna20/github-readme-stats"><img alt="Abhinand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhinandkrishna20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br />   
