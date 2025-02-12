@@ -30,6 +30,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 My Github Stats
 
+<a href="https://github.com/abhinandkrishna20">
+  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhinandkrishna20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=abhinandkrishna20&theme=dracula&hide_border=true)
 
  <br/>
@@ -44,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 # Contribution graph
 <a href="https://github.com/abhinandkrishna20/github-readme-activity-graph"><img alt="Abhinand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhinandkrishna20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+[![Abhinand's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinandkrishna20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
 
